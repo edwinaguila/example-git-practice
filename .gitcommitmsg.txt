@@ -1,0 +1,3 @@
+Group commit together
+
+This was an exercise for group to learn commit together.
